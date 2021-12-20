@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "tutorialMyAssetExists",
+        "transactionLabel": "A test tutorialMyAssetExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createTutorialMyAsset",
+        "transactionLabel": "A test createTutorialMyAsset transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readTutorialMyAsset",
+        "transactionLabel": "A test readTutorialMyAsset transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateTutorialMyAsset",
+        "transactionLabel": "A test updateTutorialMyAsset transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteTutorialMyAsset",
+        "transactionLabel": "A test deleteTutorialMyAsset transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
